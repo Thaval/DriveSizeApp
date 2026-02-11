@@ -2,7 +2,6 @@
 
 This repository hosts the **release builds** for DriveSize.
 
-- Source code: https://github.com/Thaval/DriveSize
 - Releases: https://github.com/Thaval/DriveSizeApp/releases
 
 ## Downloads
@@ -11,6 +10,10 @@ Go to the Releases page and download the build that matches your system:
 
 - `DriveSize-win-x64-selfcontained.zip` (Windows x64, no .NET install required)
 - `DriveSize-win-arm64-selfcontained.zip` (Windows ARM64, no .NET install required)
+
+## Screenshot
+
+![DriveSize – Start](https://raw.githubusercontent.com/Thaval/DriveSize/master/Assets/ScreenshotStart.png)
 
 ## How to Run
 
