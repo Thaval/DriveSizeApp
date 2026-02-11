@@ -13,7 +13,7 @@ Go to the Releases page and download the build that matches your system:
 
 ## Screenshot
 
-![DriveSize – Start](https://raw.githubusercontent.com/Thaval/DriveSize/master/Assets/ScreenshotStart.png)
+![DriveSize – Start](https://github.com/Thaval/DriveSize/blob/master/Assets/ScreenshotStart.png)
 
 ## How to Run
 
